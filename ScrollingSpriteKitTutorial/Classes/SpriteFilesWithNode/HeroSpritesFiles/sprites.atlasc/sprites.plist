@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>codeandweb</key>
+	<dict>
+		<key>generator</key>
+		<string>TexturePacker 3.6.0 - http://www.codeandweb.com/texturepacker</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:c8e666e9d9eb1b9106776ed222b9342f:ac7608d1f04ab193bff21724566c15eb:d3d9ca2375be85e50df23e2c87410bb2$</string>
+	</dict>
+	<key>format</key>
+	<string>APPL</string>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>sprites.1@2x.png</string>
+			<key>size</key>
+			<string>{360, 2559}</string>
+			<key>subimages</key>
+			<array>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>walk1@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{50, 80}</string>
+					<key>textureRect</key>
+					<string>{{0,0},{50,80}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>walk2@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0, 0}</string>
+					<key>spriteSourceSize</key>
+					<string>{50, 80}</string>
+					<key>textureRect</key>
+					<string>{{51, 0},{50, 80}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>walk3@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{50, 80}</string>
+					<key>textureRect</key>
+					<string>{{102,0},{50, 80}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>walk4@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{50, 80}</string>
+					<key>textureRect</key>
+					<string>{{153, 0},{50, 80}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>jumpDown1@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{60, 55}</string>
+					<key>textureRect</key>
+					<string>{{0, 2047},{60, 55}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>jumpDown2@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{60, 55}</string>
+					<key>textureRect</key>
+					<string>{{72, 2047},{60, 55}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>jumpup2@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{52, 83}</string>
+					<key>textureRect</key>
+					<string>{{0, 2159},{52, 83}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>jumpUp3@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{52, 88}</string>
+					<key>textureRect</key>
+					<string>{{53, 2159},{52, 88}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>jumpUp1@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{60, 80}</string>
+					<key>textureRect</key>
+					<string>{{0, 2246},{60, 79}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>turnRight@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{60, 80}</string>
+					<key>textureRect</key>
+					<string>{{203, 653},{60, 79}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>aliases</key>
+					<array/>
+					<key>isFullyOpaque</key>
+					<false/>
+					<key>name</key>
+					<string>turnLeft@2x.png</string>
+					<key>spriteOffset</key>
+					<string>{0,0}</string>
+					<key>spriteSourceSize</key>
+					<string>{60, 80}</string>
+					<key>textureRect</key>
+					<string>{{136, 730},{60, 79}}</string>
+					<key>textureRotated</key>
+					<false/>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
